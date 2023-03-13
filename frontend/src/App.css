@@ -1,0 +1,21 @@
+.heading {
+  background-color: rgb(238, 105, 177);
+  background: -webkit-linear-gradient(
+    99deg,
+    rgba(238, 105, 177, 1) 9%,
+    rgba(228, 235, 111, 1) 40%,
+    rgba(230, 120, 231, 1) 61%,
+    rgba(158, 111, 224, 0.9724264705882353) 84%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.navbarsale {
+  background: url(https://adn-static1.nykaa.com/media/wysiwyg/HeaderIcons/menusprite.png) -102px -44px
+    no-repeat;
+  display: inline-block;
+  vertical-align: middle;
+  height: 23px;
+  line-height: 23px;
+  width: 85px;
+}
